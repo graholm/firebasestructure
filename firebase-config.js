@@ -14,6 +14,9 @@ function storeValue(name, value) {
 
 function addListItem(name, value) {		
   store.child(name).push(value)
+  }
+
+
 }
 
 function onNewListItem(name, callback) {		
