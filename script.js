@@ -14,7 +14,7 @@ var obj1 = {
   } 
 }
 
-
+storeValue("key2", obj1)
 var obj = {
   key1: "jols!!",
   key2: "adios",
