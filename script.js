@@ -3,7 +3,8 @@ console.log("time to add some firebase code!")
 var obj = {
   key1: "jols!!",
   key2: "adios",
+  key3: "rdtfyghb"
 }
 
-addListItem("listkey1", "key1"); 
+addListItem("listKey1", obj); 
 
