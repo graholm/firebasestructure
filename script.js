@@ -1,8 +1,10 @@
 console.log("time to add some firebase code!")
 var obj1 = {
-  nestedkey1: {
-      nestedkey2: {
-      nestedkey
+  nestedKey1: {
+      nestedKey2: {
+      nestedKey5: {
+        notasnestedkey: "imnotasnested" {
+        
     }
 }
 
