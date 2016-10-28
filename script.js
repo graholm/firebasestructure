@@ -1,4 +1,4 @@
 console.log("time to add some firebase code!")
 
 
-addListItem("nameList", valueToSave); 
+addListItem("listKey1", "key1"); 
