@@ -4,15 +4,14 @@ var obj1 = {
       nestedKey2: {
       nestedKey5: {
         notasnestedkey: "im not as nested",
-  
-          } 
+        
+          }
+        ,nestedKey3: {
+        nestedkey4: {
+        reallynestedkey: "im deeply nested"
         }  
       }
- 
     } 
-nestedKey3: {
-  nestedkey4: {
-    reallynestedkey: "im deeply nested"
   } 
 }
 
