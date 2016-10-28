@@ -6,7 +6,9 @@ var obj1 = {
         notasnestedkey: "imnotasnested" 
       nestedkey3: {
         nestedkey4{
-        reallynestedkey: 
+        reallynestedkey: "im deeply nested"
+      }
+      }
       }
     }
 }
