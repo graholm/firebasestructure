@@ -5,5 +5,5 @@ var obj = {
   key2: "adios",
 }
 
-addListItem(obj, key1); 
-addListItem(obj, key2); 
+addListItem("listkey1", "key1"); 
+
